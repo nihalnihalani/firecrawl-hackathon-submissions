@@ -1,0 +1,6 @@
+[
+  { "type": "scroll", "direction": "down", "amount": 1500 },
+  { "type": "wait", "milliseconds": 1000 },
+  { "type": "click", "selector": "//button[contains(text(), 'Load More')]" },
+  { "type": "wait", "milliseconds": 3000 }
+]

@@ -1,0 +1,6 @@
+.DS_Store
+.firecrawl/*.html
+.firecrawl/all_apps_raw.md
+.firecrawl/allgashackathon*.md
+.firecrawl/app_jamanyo.md
+.firecrawl/update-check.json

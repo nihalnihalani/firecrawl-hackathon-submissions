@@ -1,0 +1,762 @@
+[
+  {
+    "slug": "jamanyo",
+    "title": "Jamanyo",
+    "creator": "Eugene Tulu",
+    "submitted": "Sep 19, 2026 at 01:12 PM",
+    "project_url": "https://fine-fish-527.convex.site/",
+    "video_url": "https://youtu.be/pIHbwgOvZwg",
+    "repo_url": "https://github.com/eugene-tulu/convexallgas",
+    "summary": "Jamanyo is an AI car scout that only calls a listing a lead when the evidence backs it up, with email delivery built on AgentMail.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "claimhero",
+    "title": "ClaimHero",
+    "creator": "Dinh Phuc Thinh",
+    "submitted": "Sep 19, 2026 at 09:50 AM",
+    "project_url": "https://kindhearted-elephant-992.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=M04LMuJRilg",
+    "repo_url": "https://github.com/zaikaman/ClaimHero",
+    "summary": "ClaimHero turns insurance denials into cited appeals with policy research, missing-proof detection, and human-approved delivery.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "carter",
+    "title": "Carter",
+    "creator": "Ben Anderson",
+    "submitted": "Sep 18, 2026 at 09:38 PM",
+    "project_url": "https://ardent-bandicoot-155.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=zgS6NWyqzFE",
+    "repo_url": "https://github.com/andersjbe/carter-ai",
+    "summary": "Curious about what you want. Relentless about finding it.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "compari",
+    "title": "Compari",
+    "creator": "David Buss",
+    "submitted": "Sep 18, 2026 at 07:39 PM",
+    "project_url": "https://enduring-husky-65.convex.site/",
+    "video_url": "https://www.loom.com/share/6c39274f0ff84618b1da8e60d2f60327",
+    "repo_url": "https://github.com/kotarCreative/compari",
+    "summary": "Price quoting made easy I wanted an app that would simplify finding a vendor for me. Lots of jobs like tree cutting, catering or photography require emails and specific details to be able to get an actual quote. Compari takes out all the leg work by doing the searching and contacting for you.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "faultline",
+    "title": "Faultline",
+    "creator": "N DIVIJ",
+    "submitted": "Sep 18, 2026 at 04:49 PM",
+    "project_url": "https://clear-dogfish-72.convex.site/",
+    "video_url": "https://youtu.be/oZGHuZrlAnQ",
+    "repo_url": "https://github.com/N-45div/faultline",
+    "summary": "Your landlord told the city it's fixed. Is it? Say so in your own words; we keep it dated and tell you if the city agrees. **Try it in 30 seconds, with no email and no sign-in: [https://clear-dogfish-72.convex.site/try](https://clear-dogfish-72.convex.site/try)** Press the first button. The reply ar...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "duebell",
+    "title": "Duebell",
+    "creator": "Kevin Alexander Soto Burgos",
+    "submitted": "Sep 18, 2026 at 04:43 PM",
+    "project_url": "https://sleek-grouse-640.convex.site/",
+    "video_url": "https://youtu.be/dViTfHukVrc",
+    "repo_url": "https://github.com/kasbsquall/duebell",
+    "summary": "Peru gives companies 15 business days to answer a consumer complaint. Duebell keeps the clock, reads the reply and drafts your filing.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "mp3totext",
+    "title": "MP3ToText",
+    "creator": "ethan",
+    "submitted": "Sep 18, 2026 at 10:23 AM",
+    "project_url": "https://mp3totext.io/",
+    "video_url": "https://www.youtube.com/watch?v=axAFqWB9vkw",
+    "repo_url": "N/A",
+    "summary": "Online MP3 to text\u2014upload audio and export in multiple formats. Overview\u3011\nMP3 to Text (mp3totext.io) is an online AI speech-to-text tool that helps users convert MP3, WAV, M4A, MP4, and other audio/video files into editable, searchable text. No software installation is required\u2014everything runs in th...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "safeplate",
+    "title": "SafePlate",
+    "creator": "Nelson",
+    "submitted": "Sep 18, 2026 at 02:21 AM",
+    "project_url": "https://valiant-fox-223.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=nzArirVettI",
+    "repo_url": "https://github.com/chinesepowered/safeplate",
+    "summary": "Eating out with a serious food allergy \u2014 it reads the real menu and asks the kitchen what the menu cannot answer. 1 day ago [0 Comments](https://vibeapps.dev/s/safeplate",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "exorcist",
+    "title": "Exorcist",
+    "creator": "Nelson",
+    "submitted": "Sep 18, 2026 at 02:18 AM",
+    "project_url": "https://adventurous-caribou-217.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=An1iPgCm6CU",
+    "repo_url": "https://github.com/chinesepowered/exorcist",
+    "summary": "Find what is haunting your card. Forward your receipts and it cancels what you forgot about.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "quote-arena",
+    "title": "Quote Arena",
+    "creator": "Nelson",
+    "submitted": "Sep 18, 2026 at 02:15 AM",
+    "project_url": "https://polished-dragon-158.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=dixtNz7GDkU",
+    "repo_url": "https://github.com/chinesepowered/quote-arena",
+    "summary": "Post a home repair job once. It finds contractors, emails them all, and ranks what comes back.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "after",
+    "title": "After",
+    "creator": "Nelson",
+    "submitted": "Sep 18, 2026 at 02:11 AM",
+    "project_url": "https://kindred-guanaco-234.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=eZ8eIKz-_tc",
+    "repo_url": "https://github.com/chinesepowered/after",
+    "summary": "When someone dies there are forty companies to tell. After finds each process, writes the letters, and tracks them.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "ombuds",
+    "title": "Ombuds",
+    "creator": "Shyam Raghuwanshi",
+    "submitted": "Sep 18, 2026 at 01:37 AM",
+    "project_url": "https://flexible-reindeer-206.convex.site/",
+    "video_url": "https://youtu.be/VErPwL-xLYw",
+    "repo_url": "https://github.com/Shyam-Raghuwanshi/Ombuds",
+    "summary": "Public records tell you if a care home is safe. Only email tells you if it's available. Ombuds does both, and takes nothing from facilities.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "opportunity-scout",
+    "title": "Opportunity Scout",
+    "creator": "Himanshu Jha",
+    "submitted": "Sep 17, 2026 at 06:38 AM",
+    "project_url": "https://graceful-spoonbill-850.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=vnmZcJOoM6o",
+    "repo_url": "https://github.com/himanshu748/opportunity-scout-convex",
+    "summary": "Find active hackathons, grants and gigs with verified deadlines, cash prizes and an OpenAI advisor. Scout helps developers find active hackathons, grants and paid gigs, compare source-confirmed cash prizes and deadlines, and save a shortlist. An OpenAI advisor recommends opportunities based on skill...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "bipolar",
+    "title": "bipolar",
+    "creator": "Mulugeta Zeferu",
+    "submitted": "Sep 16, 2026 at 04:15 PM",
+    "project_url": "https://vivid-greyhound-473.convex.site/",
+    "video_url": "https://drive.google.com/file/d/1xZU_HiHnRfIeF6y7vDF-WBJeRvqJAGDQ/view?usp=sharing",
+    "repo_url": "https://github.com/mooler-z/bipolar",
+    "summary": "Vote love or hate on polarizing topics, then see how the rest of the world voted \u2014 country by country.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "datehaja",
+    "title": "Datehaja",
+    "creator": "Hyo Jang",
+    "submitted": "Sep 15, 2026 at 10:56 PM",
+    "project_url": "https://merry-bass-190.convex.site/",
+    "video_url": "https://youtu.be/K35t6VaF0iI",
+    "repo_url": "https://github.com/hyochan/Datehaja",
+    "summary": "My second self dates for me. Your Agent meets theirs, comes home with an honest read, and contact opens only after two human yeses. Create a private AI Dating Agent, let it meet other Agents, hear what happened, and tell it what felt like you. The next encounter carries that guidance.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "perkdropclick",
+    "title": "Perkdrop.click",
+    "creator": "Sanath R",
+    "submitted": "Sep 15, 2026 at 09:24 AM",
+    "project_url": "https://perkdrop-click.sanathr106.chatgpt.site/",
+    "video_url": "https://youtu.be/DCb3a0kDiXo",
+    "repo_url": "https://github.com/sansynx/perkdrop-click",
+    "summary": "A moderated catalog of free credits and programs, with the original provider claim page",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "backpack",
+    "title": "Backpack",
+    "creator": "Elias",
+    "submitted": "Sep 14, 2026 at 07:36 PM",
+    "project_url": "https://resilient-mastiff-559.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=Mu_FvHAuK9E",
+    "repo_url": "https://github.com/Elioz404/Backpack",
+    "summary": "Everything your school sends \u2014 the site, the newsletters, the mail \u2014 as one shared list of what your family actually has to do. Schools don't have a communication problem. They have a distribution problem.\nThe information exists, it's just spread across a website nobody opens twice, a\nnewsletter as ...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "fillable",
+    "title": "Fillable",
+    "creator": "Aditya Singh",
+    "submitted": "Sep 14, 2026 at 04:00 PM",
+    "project_url": "https://wandering-hawk-899.convex.site/",
+    "video_url": "https://youtu.be/x4KFO5PQ6Vw",
+    "repo_url": "https://github.com/compiler-aditya/fillable-all-gas",
+    "summary": "Know your exact medication\u2019s reported supply, follow changes, and bring clearer questions to your pharmacist.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "tenantshield",
+    "title": "TenantShield",
+    "creator": "memeshe",
+    "submitted": "Sep 14, 2026 at 05:32 AM",
+    "project_url": "https://confident-bass-919.convex.site/",
+    "video_url": "https://youtu.be/s_9u-okSGu4",
+    "repo_url": "https://github.com/memeshee/tenantshield",
+    "summary": "Demand letters that cite the right clause by number, then chase the landlord until they answer.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "overlap",
+    "title": "Overlap",
+    "creator": "Aditya Singh",
+    "submitted": "Sep 12, 2026 at 08:03 PM",
+    "project_url": "https://expert-wolverine-992.convex.site/",
+    "video_url": "https://youtu.be/v7oj3IR8W8g",
+    "repo_url": "https://github.com/compiler-aditya/convex-all-gas",
+    "summary": "Two agents. Two private limits. A deal neither side had to reveal.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "zabuton",
+    "title": "Zabuton",
+    "creator": "hand, so the spreadsheet usually wins.",
+    "submitted": "Sep 12, 2026 at 01:46 PM",
+    "project_url": "https://original-spoonbill-489.convex.site/",
+    "video_url": "https://youtu.be/wl5ynsKpY8k",
+    "repo_url": "https://github.com/sneg55/zabuton",
+    "summary": "Point it at a city\u2019s website. It reads every board, commission and term, then keeps the roster current. The problem. Every city runs dozens of volunteer boards and commissions: planning, parks, heritage, human services. Each seat has a holder, an appointment date, a term end and a term limit. The cl...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "thesisline",
+    "title": "ThesisLine",
+    "creator": "Himanshu Kumar",
+    "submitted": "Sep 12, 2026 at 06:47 AM",
+    "project_url": "https://resolute-akita-616.convex.site/",
+    "video_url": "https://drive.google.com/file/d/1dUeHLHe0Lagy2sREmg5PRBxu3pppB1tw/view",
+    "repo_url": "https://github.com/himanshu748/thesisline",
+    "summary": "Follow Indian-stock research questions through official disclosures, quoted evidence and verified alerts. A stock watchlist remembers the ticker. ThesisLine remembers the question.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "attestor",
+    "title": "Attestor",
+    "creator": "Bamidele Olamide",
+    "submitted": "Sep 11, 2026 at 12:13 PM",
+    "project_url": "https://brazen-snail-826.convex.site/",
+    "video_url": "https://x.com/bholdguy/status/2098441580772303076",
+    "repo_url": "https://github.com/Bholdguy/attestor",
+    "summary": "A license-trust supervisor that catches stale, misidentified, or invalid healthcare licenses before a staffing decision relies on them.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "regvista",
+    "title": "RegVista",
+    "creator": "email.",
+    "submitted": "Sep 10, 2026 at 01:55 PM",
+    "project_url": "https://brilliant-roadrunner-68.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=dDjU7qFdHY8",
+    "repo_url": "https://github.com/rajgopalakrish/RegVista_CVH",
+    "summary": "Regulatory intelligence that maps a company's exposure, connects regimes to source-backed findings, and tracks developments - RegVista is a regulatory-intelligence tool built to answer a simple question: which regulatory regimes and developments matter for a company?\n- Enter a company and jurisdicti...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "pixelshop-the-ai-shopping-network",
+    "title": "PixelShop \u2014 The AI Shopping Network",
+    "creator": "\u80e1\u6d2a\u4f1f",
+    "submitted": "Sep 9, 2026 at 12:41 PM",
+    "project_url": "https://fearless-otter-334.convex.site/",
+    "video_url": "https://youtu.be/dBYvrjQv2sg",
+    "repo_url": "https://github.com/hhwjsw711/pixelshop",
+    "summary": "Any product on the internet, turned into a live shopping channel \u2014 written, produced, and aired by AI while you watch.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "offscript",
+    "title": "OFFSCRIPT",
+    "creator": "Himanshu Kumar",
+    "submitted": "Sep 9, 2026 at 05:40 AM",
+    "project_url": "https://flexible-kiwi-480.convex.site/",
+    "video_url": "https://drive.google.com/file/d/1oCSR-ZezcXE7-KGd8ocpVDYaNc-yos20/view",
+    "repo_url": "https://github.com/himanshu748/offscript",
+    "summary": "A two-player browser mystery. You have half the story; your friend has the rest. You have half the story. Your friend has the rest.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "beacon",
+    "title": "Beacon",
+    "creator": "Nelson",
+    "submitted": "Sep 8, 2026 at 11:52 PM",
+    "project_url": "https://moonlit-ferret-277.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=MMXR0BWSom4",
+    "repo_url": "https://github.com/chinesepowered/beacon",
+    "summary": "A lost pet report becomes a search that never sleeps \u2014 crawling shelters, matching, and emailing.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "one-table",
+    "title": "One Table",
+    "creator": "Himanshu Kumar",
+    "submitted": "Sep 8, 2026 at 06:51 AM",
+    "project_url": "https://wooden-dogfish-387.convex.site/",
+    "video_url": "https://drive.google.com/file/d/19CIu9tWAfKNo1nFfHzACgcnQIv-oUi_C/view",
+    "repo_url": "https://github.com/himanshu748/one-table",
+    "summary": "Find venues, request quotes and compare the real cost for your guest list. Planning a family event means comparing emails that price the same gathering in different ways: per plate, packages, hall rent and minimum spends. Taxes and guest minimums can change which option costs less.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "might",
+    "title": "Might",
+    "creator": "\u5289\u6069\u8a00 / Ranopha",
+    "submitted": "Sep 6, 2026 at 07:46 AM",
+    "project_url": "https://hushed-stork-401.convex.site/",
+    "video_url": "https://youtu.be/VjZp9nPWEEU",
+    "repo_url": "https://github.com/Ranopha/might",
+    "summary": "You have more to offer than you know. Might finds where it matters. Might is a private companion that helps people recognize where their experience, interests or resources may be useful. It begins as a quiet orb, takes an original OpenAI-generated form, and gets to know someone through natural conve...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "claim-check",
+    "title": "Claim Check",
+    "creator": "Taylor Heller",
+    "submitted": "Sep 5, 2026 at 10:17 PM",
+    "project_url": "https://snowphamtom.github.io/ceilinggate/",
+    "video_url": "https://www.youtube.com/watch?v=hDnY3_iszX4",
+    "repo_url": "https://github.com/snowphamtom/ceilinggate",
+    "summary": "Claim Check \u2014 claimed \u2264 receipt (C \u2264 S) \u2192 GRANT or REFUSE, line by line. Claim Check \u2014 claimed \u2264 receipt (C \u2264 S) \u2192 GRANT or REFUSE, line by line. Not a chat that guesses. Judge walkthrough (no login, no keys): 1. Open the Live app: [https://snowphamtom.github.io/ceilinggate/](https://snowphamtom.git...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "ceilinggate",
+    "title": "CeilingGate",
+    "creator": "Taylor Heller14 days ago [0 Comments](https://vibeapps.dev/s/ceilinggate#comments)",
+    "submitted": "Sep 5, 2026 at 09:54 PM",
+    "project_url": "https://quirky-rhinoceros-204.convex.site/",
+    "video_url": "N/A",
+    "repo_url": "N/A",
+    "summary": "Email a public receipt. Get GRANT or the line that is over. by Taylor Heller14 days ago [0 Comments](https://vibeapps.dev/s/ceilinggate",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "still-true",
+    "title": "still-true",
+    "creator": "Randall LaPoint, Jr",
+    "submitted": "Sep 5, 2026 at 08:34 PM",
+    "project_url": "https://impressive-marten-163.convex.site/",
+    "video_url": "https://youtu.be/HofqXKI8KJs",
+    "repo_url": "https://github.com/Lokie-ree/still-true",
+    "summary": "Forward a document. It tells you what it never says \u2014 and how many lines it read before saying so. Forward a document. It tells you what it never says \u2014 and how many lines it read before saying so.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "rentpilot",
+    "title": "RentPilot",
+    "creator": "Himanshu Kumar",
+    "submitted": "Sep 5, 2026 at 01:38 PM",
+    "project_url": "https://ceaseless-pigeon-981.convex.site/",
+    "video_url": "https://youtu.be/TjNKa9jboJo",
+    "repo_url": "https://github.com/himanshu748/rentpilot",
+    "summary": "Find room leads by area, budget and must-haves, then track listing evidence, approved inquiries and replies. I used OpenAI Codex throughout development to implement features, debug integrations and run end-to-end checks. OpenAI gpt-4o-mini writes inquiry drafts inside the app.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "block",
+    "title": "Block",
+    "creator": "Shwetas Dhake",
+    "submitted": "Sep 3, 2026 at 03:11 AM",
+    "project_url": "https://flippant-stork-696.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=kHp2UfkJ9G8",
+    "repo_url": "https://github.com/shwetd19/Convex-All-Gas/",
+    "summary": "Drop your business link \u2014 an AI agent maps your competitors and customers, drafts outreach, and works every lead for you.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "noticeproof",
+    "title": "NoticeProof",
+    "creator": "Tang Vu",
+    "submitted": "Sep 1, 2026 at 03:11 AM",
+    "project_url": "https://lovely-eel-809.convex.site/",
+    "video_url": "https://youtu.be/KX4xkUp6Qm8",
+    "repo_url": "https://github.com/tang-vu/noticeproof",
+    "summary": "Forward a recall notice. NoticeProof verifies every claim and switches you to an independently trusted contact - before you click.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "get-it-in-writing",
+    "title": "Get It in Writing",
+    "creator": "Joe Simo",
+    "submitted": "Aug 31, 2026 at 06:21 PM",
+    "project_url": "https://resilient-salamander-937.convex.site/",
+    "video_url": "https://youtu.be/aXTCeEUKq5Q",
+    "repo_url": "https://github.com/Joe-Simo/get-it-in-writing",
+    "summary": "Don't rely on \"probably.\" See what an official page actually promises \u2014 and get the gap confirmed in writing. Websites are full of sentences that sound like promises \u2014 \"free cancellation,\" \"connecting rooms available upon request.\" People book, buy, and rent believing them. Get It in Writing checks ...",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "attest",
+    "title": "Attest",
+    "creator": "Yao Tsakpo",
+    "submitted": "Aug 30, 2026 at 02:59 PM",
+    "project_url": "https://dynamic-egret-864.convex.site/",
+    "video_url": "https://www.loom.com/share/9c1e3c56fbea4d22948c41fac86392b3",
+    "repo_url": "https://github.com/yaotsakpo/attest",
+    "summary": "An assistant on your inbox that says yes to the verified recruiter and the small invoice, and no to the SSN scam and the unverified wire.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "red-flag",
+    "title": "Red Flag",
+    "creator": "Melanie Cruz",
+    "submitted": "Aug 29, 2026 at 07:27 PM",
+    "project_url": "https://red-flag-btuq.vercel.app/",
+    "video_url": "https://drive.google.com/file/d/1I9gE-QXpfXmv7z3ttUA5mtBh-Zxw7qxJ/view?usp=drivesdk",
+    "repo_url": "https://github.com/DarkKingpro10/Red-Flag",
+    "summary": "Una plataforma donde los trabajadores exponen anonimamente el ambiente real de empresas y sucursales para orientar a quienes buscan empleo",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "recourse",
+    "title": "Recourse",
+    "creator": "number, gets",
+    "submitted": "Aug 28, 2026 at 06:05 PM",
+    "project_url": "https://hearty-lobster-443.convex.site/",
+    "video_url": "https://www.youtube.com/watch?v=slCpqIoOOrg",
+    "repo_url": "https://github.com/Spagero763/recourse",
+    "summary": "Pursue what you're owed, citing the clause that entitles you to it.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  },
+  {
+    "slug": "tableforall",
+    "title": "TableForAll",
+    "creator": "Amaan Ahmad",
+    "submitted": "Aug 28, 2026 at 07:05 AM",
+    "project_url": "https://aware-shark-108.convex.site/",
+    "video_url": "https://youtu.be/bdyDmLJKL0w",
+    "repo_url": "https://github.com/iamaanahmad/TableForAll",
+    "summary": "Email replies become a cited dinner shortlist. Guests install nothing.",
+    "sponsor_tags": [
+      "convex",
+      "openai",
+      "firecrawl",
+      "agentmail",
+      "codex",
+      "astra",
+      "fable"
+    ]
+  }
+]
