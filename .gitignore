@@ -1,4 +1,5 @@
 .DS_Store
+.firecrawl/
 .firecrawl/*.html
 .firecrawl/all_apps_raw.md
 .firecrawl/allgashackathon*.md

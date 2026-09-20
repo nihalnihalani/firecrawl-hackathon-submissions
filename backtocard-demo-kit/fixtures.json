@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "synthetic": true,
+  "purpose": "Proposed acceptance fixtures and rehearsal data; not a connected app or bank feed",
+  "currency": "USD",
+  "amountUnit": "integer cents",
+  "deliveryRestriction": "Use operator-controlled allowlisted test inboxes only",
+  "fixtures": [
+    {
+      "id": "partial_credit",
+      "caseId": "SAMPLE-BTC-120",
+      "mode": "sequential_delta",
+      "priorFixture": null,
+      "items": [
+        {
+          "id": "sweater",
+          "paidAmount": 8000,
+          "expectedRefund": 8000
+        },
+        {
+          "id": "scarf",
+          "paidAmount": 4000,
+          "expectedRefund": 4000
+        }
+      ],
+      "expectedRefund": 12000,
+      "scope": "One eligible order; one parcel; no tax, shipping, fee, store-credit or preorder adjustment in this synthetic fixture",
+      "newEvents": [
+        {
+          "id": "credit-80",
+          "kind": "posted_credit",
+          "amount": 8000,
+          "allocations": {
+            "sweater": 8000
+          },
+          "provenance": "explicit_user_confirmation"
+        }
+      ],
+      "expected": {
+        "netConfirmedCredit": 8000,
+        "unresolved": 4000,
+        "nextAction": "Review scarf evidence and supported contact route"
+      }
+    },
+    {
+      "id": "promise_only",
+      "caseId": "SAMPLE-BTC-120",
+      "mode": "sequential_delta",
+      "priorFixture": "partial_credit",
+      "items": [
+        {
+          "id": "sweater",
+          "paidAmount": 8000,
+          "expectedRefund": 8000
+        },
+        {
+          "id": "scarf",
+          "paidAmount": 4000,
+          "expectedRefund": 4000
+        }
+      ],
+      "expectedRefund": 12000,
+      "scope": "One eligible order; one parcel; no tax, shipping, fee, store-credit or preorder adjustment in this synthetic fixture",
+      "newEvents": [
+        {
+          "id": "promise-40",
+          "kind": "merchant_promise",
+          "amount": 4000,
+          "item": "scarf"
+        }
+      ],
+      "expected": {
+        "netConfirmedCredit": 8000,
+        "unresolved": 4000,
+        "nextAction": "Await payment confirmation; promise is not financial credit"
+      }
+    },
+    {
+      "id": "posted_credit",
+      "caseId": "SAMPLE-BTC-120",
+      "mode": "sequential_delta",
+      "priorFixture": "promise_only",
+      "items": [
+        {
+          "id": "sweater",
+          "paidAmount": 8000,
+          "expectedRefund": 8000
+        },
+        {
+          "id": "scarf",
+          "paidAmount": 4000,
+          "expectedRefund": 4000
+        }
+      ],
+      "expectedRefund": 12000,
+      "scope": "One eligible order; one parcel; no tax, shipping, fee, store-credit or preorder adjustment in this synthetic fixture",
+      "newEvents": [
+        {
+          "id": "credit-40",
+          "kind": "posted_credit",
+          "amount": 4000,
+          "allocations": {
+            "scarf": 4000
+          },
+          "provenance": "explicit_user_confirmation"
+        }
+      ],
+      "expected": {
+        "netConfirmedCredit": 12000,
+        "unresolved": 0,
+        "nextAction": "Stop reminder"
+      }
+    },
+    {
+      "id": "later_charge",
+      "caseId": "SAMPLE-BTC-120",
+      "mode": "sequential_delta",
+      "priorFixture": "posted_credit",
+      "items": [
+        {
+          "id": "sweater",
+          "paidAmount": 8000,
+          "expectedRefund": 8000
+        },
+        {
+          "id": "scarf",
+          "paidAmount": 4000,
+          "expectedRefund": 4000
+        }
+      ],
+      "expectedRefund": 12000,
+      "scope": "One eligible order; one parcel; no tax, shipping, fee, store-credit or preorder adjustment in this synthetic fixture",
+      "newEvents": [
+        {
+          "id": "debit-40",
+          "kind": "later_debit",
+          "amount": 4000,
+          "allocations": {
+            "scarf": 4000
+          },
+          "provenance": "user_supplied_event_and_confirmed_case_match"
+        }
+      ],
+      "expected": {
+        "netConfirmedCredit": 8000,
+        "unresolved": 4000,
+        "nextAction": "Review scarf discrepancy; sweater remains resolved"
+      }
+    },
+    {
+      "id": "duplicate_later_charge",
+      "caseId": "SAMPLE-BTC-120",
+      "mode": "sequential_delta",
+      "priorFixture": "later_charge",
+      "items": [
+        {
+          "id": "sweater",
+          "paidAmount": 8000,
+          "expectedRefund": 8000
+        },
+        {
+          "id": "scarf",
+          "paidAmount": 4000,
+          "expectedRefund": 4000
+        }
+      ],
+      "expectedRefund": 12000,
+      "scope": "One eligible order; one parcel; no tax, shipping, fee, store-credit or preorder adjustment in this synthetic fixture",
+      "newEvents": [
+        {
+          "id": "debit-40",
+          "kind": "later_debit",
+          "amount": 4000,
+          "allocations": {
+            "scarf": 4000
+          },
+          "provenance": "duplicate_event"
+        }
+      ],
+      "expected": {
+        "netConfirmedCredit": 8000,
+        "unresolved": 4000,
+        "nextAction": "Ignore duplicate; do not generate second case"
+      }
+    },
+    {
+      "id": "legitimate_fee",
+      "mode": "independent_case",
+      "synthetic": true,
+      "merchantPolicyReference": "https://support.everlane.com/what-is-your-return-policy-H1fMnra0s",
+      "scope": "Eligible US mail-label return to the original card with the documented fee applicable; 12000 cents net refundable merchandise; excludes store credit, in-store returns, tax, original shipping and other adjustments in this fixture",
+      "grossEligibleItems": 12000,
+      "adjustments": [
+        {
+          "kind": "applicable_return_label_fee",
+          "amount": 700
+        }
+      ],
+      "confirmedPostedCredit": 11300,
+      "expected": {
+        "expectedRefund": 11300,
+        "unresolved": 0,
+        "nextAction": "No missing-refund enquiry"
+      }
+    },
+    {
+      "id": "ambiguous_equal_amounts",
+      "mode": "independent_case",
+      "items": [
+        {
+          "id": "one",
+          "expectedRefund": 4000
+        },
+        {
+          "id": "two",
+          "expectedRefund": 4000
+        }
+      ],
+      "confirmedPostedCredit": 4000,
+      "knownReference": null,
+      "expected": {
+        "unallocatedCredit": 4000,
+        "itemMatch": "needs_review",
+        "nextAction": "Do not settle an arbitrary item from amount alone"
+      }
+    },
+    {
+      "id": "unknown_fee",
+      "mode": "independent_case",
+      "grossEligibleItems": 12000,
+      "feeApplicability": "unknown",
+      "confirmedPostedCredit": 11300,
+      "expected": {
+        "expectedRefund": null,
+        "unresolved": null,
+        "nextAction": "Review applicable adjustments; do not assert a 700-cent debt"
+      }
+    },
+    {
+      "id": "new_purchase_same_amount",
+      "mode": "independent_case",
+      "existingResolvedReturn": {
+        "item": "scarf",
+        "amount": 4000
+      },
+      "newDebit": {
+        "amount": 4000,
+        "caseMatch": null
+      },
+      "expected": {
+        "reopenReturn": false,
+        "nextAction": "Request matching evidence; amount and merchant alone are insufficient"
+      }
+    }
+  ]
+}
